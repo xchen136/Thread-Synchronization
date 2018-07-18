@@ -1,4 +1,4 @@
-# Thread-Synchronization (Cs340 - Operating System, Professor Vivek Upadhyay, Spring 2017)
+# Thread-Synchronization 
 A random matching game that uses semaphore to synchronize processes.
 
 "Project Idea"
